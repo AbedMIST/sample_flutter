@@ -183,6 +183,7 @@ class _MyHomePageState extends State<MyHomePage> {
     }
     catch(e){
       print(e);
+      print(e);
     }
   }
 }
